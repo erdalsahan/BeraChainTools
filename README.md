@@ -2,7 +2,7 @@
 
 BeraChainTools 一个为 BeraChain 生态系统设计的工具集，旨在帮助用户轻松地进行各种交互和操作。
 
-### 安装依赖
+### 安装依赖 
 
 在开始使用 BeraChainTools 之前，请确保安装了所有必要的依赖。
 
